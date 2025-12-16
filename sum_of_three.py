@@ -1,7 +1,6 @@
-# pylint: disable=missing-module-docstring
+"""Sum of three numbers module."""
+
 
 def sum3(first_number, second_number, third_number):
-    """
-    Takes three numbers and returns the sum of those numbers
-    """
-    pass  # YOUR CODE HERE
+    """Return the sum of three numbers."""
+    return first_number + second_number + third_number
